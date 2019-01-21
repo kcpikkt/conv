@@ -3,6 +3,9 @@ Simple cli number system converter written in C.
 
 # usage
 ```console
+$ conv 7 81
+7       111
+81      1010001
 $ conv -f=16 -t=10 1FA 1fa
 1FA     506
 1fa     506
@@ -13,3 +16,4 @@ $ conv -f=10 -t=36 46655 -c=1 46655
 46655   zzz
 46655   ZZZ
 ```
+ 
