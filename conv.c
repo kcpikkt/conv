@@ -3,7 +3,7 @@
 ///             It supports number systems with bases up to 36 due to character limitaton.
 /// Language:   C
 /// Author:     Kacper Kokot
-/// Repo:       github.com/kcpikkt/conv
+/// Repo:       https://github.com/kcpikkt/conv.git
 /// Note:       If you are using windows cmd or powershell, colored text is not going to be rendered properly.
 //#define NO_COLOR //uncomment this line to use conv without ANSI colors 
 
