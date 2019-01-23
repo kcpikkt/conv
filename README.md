@@ -10,7 +10,7 @@ make
 sudo make install
 ```
 
-## sage
+## Usage
 ```console
 $ conv 7 81
 7       111
