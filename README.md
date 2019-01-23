@@ -1,7 +1,16 @@
 # conv
 Simple cli number system converter written in C.
 
-# usage
+## Installation
+### Linux
+```console
+git clone https://github.com/kcpikkt/conv
+cd conv
+make
+sudo make install
+```
+
+## sage
 ```console
 $ conv 7 81
 7       111
